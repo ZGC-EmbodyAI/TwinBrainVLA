@@ -24,10 +24,12 @@
     <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
 </a>
 
-**Bin Yu**<sup>1,2</sup>, **Shijie Lian**<sup>2,4</sup>, **Xiaopeng Lin**<sup>2,5</sup>, **Yuliang Wei**<sup>1</sup>, **Zhaolong Shen**<sup>2,6</sup>,<br>
-**Changti Wu**<sup>2,7</sup>, **Yuzhuo Miao**<sup>1,2</sup>, **Xinming Wang**<sup>2,8</sup>, **Bailing Wang**<sup>1</sup>, **Cong Huang**<sup>2,3</sup>, **Kai Chen**<sup>2,3,9</sup>
+**Bin Yu**<sup>1,2,\*</sup> **Shijie Lian**<sup>2,4,\*</sup> **Xiaopeng Lin**<sup>2,5,\*</sup> **Yuliang Wei**<sup>1,†</sup> **Zhaolong Shen**<sup>2,6</sup><br>
+**Changti Wu**<sup>2,7</sup> **Yuzhuo Miao**<sup>1,2</sup> **Xinming Wang**<sup>2,8</sup> **Bailing Wang**<sup>1</sup> **Cong Huang**<sup>2,3</sup> **Kai Chen**<sup>2,3,9,†</sup>
 
 <sup>1</sup>HIT, <sup>2</sup>ZGCA, <sup>3</sup>ZGCI, <sup>4</sup>HUST, <sup>5</sup>HKUST(GZ), <sup>6</sup>BUAA, <sup>7</sup>ECNU, <sup>8</sup>CASIA, <sup>9</sup>DeepCybo
+
+<sup>*</sup>Equal contribution, <sup>†</sup>Corresponding author
 
 <img src="./assets/ZGCA-logo.png" alt="ZGCA" style="vertical-align: middle; height: 16px; margin-right: 4px; position: relative; top: -2px;" />[Zhongguancun Academy](https://www.bjzgca.edu.cn/) & <img src="./assets/ZGCI-logo.png" alt="ZGCI" style="vertical-align: middle; height: 16px; margin-right: 4px; position: relative; top: -2px;" />[Zhongguancun Institute of Artificial Intelligence](https://www.zgci.ac.cn/)
 

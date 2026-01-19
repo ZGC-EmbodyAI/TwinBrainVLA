@@ -11,7 +11,7 @@
         "
     >TwinBrainVLA</span>
     <img src="./assets/TwinBrainVLA-logo.png" alt="logo" style="position: relative; top: -10px; margin-left: -2px; height: 40px;" />
-    : Unleashing the Potential of Generalist VLMs<br>for Embodied Tasks via Asymmetric Mixture-of-Transformers
+    : Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
 </h1>
 
 <a href="https://github.com/ZGC-EmbodyAI/TwinBrainVLA">

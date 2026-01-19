@@ -10,8 +10,8 @@
             display: inline-block;
         "
     >TwinBrainVLA</span>
-    <img src="./assets/TwinBrainVLA-logo.png" alt="logo" style="position: relative; top: -4px; margin-left: 0px; height: 20px;" />
-    : Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
+    <img src="./assets/TwinBrainVLA-logo.png" alt="logo" style="position: relative; top: -10px; margin-left: -2px; height: 40px;" />
+    : Unleashing the Potential of Generalist VLMs<br>for Embodied Tasks via Asymmetric Mixture-of-Transformers
 </h1>
 
 <a href="https://github.com/ZGC-EmbodyAI/TwinBrainVLA">
@@ -39,7 +39,7 @@
 
 Standard Vision-Language-Action (VLA) models typically fine-tune a monolithic Vision-Language Model (VLM) backbone explicitly for robotic control. However, this approach creates a critical tension between maintaining high-level general semantic understanding and learning low-level, fine-grained sensorimotor skills, often leading to "*catastrophic forgetting*" of the model's open-world capabilities. 
 
-To resolve this conflict, we introduce **TwinBrainVLA**<img src="./assets/TwinBrainVLA-logo.png" alt="logo" style="position: relative; top: -4px; margin-left: 0px; height: 13px;" />, a novel architecture that coordinates a generalist VLM retaining universal semantic understanding and a specialist VLM dedicated to embodied proprioception for joint robotic control. TwinBrainVLA synergizes a frozen "Left Brain", which retains robust general visual reasoning, with a trainable "Right Brain", specialized for embodied perception, via a novel **Asymmetric Mixture-of-Transformers (AsyMoT)** mechanism. This design allows the Right Brain to dynamically query semantic knowledge from the frozen Left Brain and fuse it with proprioceptive states, providing rich conditioning for a Flow-Matching Action Expert to generate precise continuous controls.
+To resolve this conflict, we introduce **TwinBrainVLA**<img src="./assets/TwinBrainVLA-logo.png" alt="logo" style="position: relative; top: -5px; margin-left: 0px; height: 20px;" />, a novel architecture that coordinates a generalist VLM retaining universal semantic understanding and a specialist VLM dedicated to embodied proprioception for joint robotic control. TwinBrainVLA synergizes a frozen "Left Brain", which retains robust general visual reasoning, with a trainable "Right Brain", specialized for embodied perception, via a novel **Asymmetric Mixture-of-Transformers (AsyMoT)** mechanism. This design allows the Right Brain to dynamically query semantic knowledge from the frozen Left Brain and fuse it with proprioceptive states, providing rich conditioning for a Flow-Matching Action Expert to generate precise continuous controls.
 
 Extensive experiments on SimplerEnv and RoboCasa benchmarks demonstrate that TwinBrainVLA achieves superior manipulation performance compared to state-of-the-art baselines while explicitly preserving the comprehensive visual understanding capabilities of the pre-trained VLM, offering a promising direction for building general-purpose robots that simultaneously achieve high-level semantic understanding and low-level physical dexterity.
 

@@ -60,4 +60,10 @@ TwinBrainVLA mimics the biological principle of hemispheric lateralization:
 
 ## 🙏 Acknowledgements
 
-We would like to thank the [starVLA](https://github.com/starVLA/starVLA) project for its inspiring work and open-source contributions.
+We would like to thank the [starVLA](https://github.com/starVLA/starVLA) project for its inspiring work and open-source contributions. At the same time, we also express our gratitude to the following projects:
+
+- [Mixture-of-Transformers](https://github.com/facebookresearch/Mixture-of-Transformers)
+- [Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T)
+- [LeRobot](https://github.com/huggingface/lerobot/)
+- [SimplerEnv](https://github.com/simpler-env/SimplerEnv)
+- [Franka Teleop](https://github.com/Shenzhaolong1330/lerobot_franka_teleop)

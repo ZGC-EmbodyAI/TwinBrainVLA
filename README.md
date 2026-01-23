@@ -17,8 +17,8 @@
 <a href="https://github.com/ZGC-EmbodyAI/TwinBrainVLA">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ZGC--EmbodyAI%2FTwinBrainVLA-blue?logo=github">
 </a>
-<a href="https://arxiv.org/">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.xxxxx-b31b1b.svg">
+<a href="https://arxiv.org/abs/2601.14133">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.14133-b31b1b.svg">
 </a>
 <a href="https://github.com/ZGC-EmbodyAI/TwinBrainVLA/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">

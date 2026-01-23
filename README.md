@@ -67,3 +67,19 @@ We would like to thank the [starVLA](https://github.com/starVLA/starVLA) project
 - [LeRobot](https://github.com/huggingface/lerobot/)
 - [SimplerEnv](https://github.com/simpler-env/SimplerEnv)
 - [Franka Teleop](https://github.com/Shenzhaolong1330/lerobot_franka_teleop)
+
+## Citation
+
+If you find this project or the dataset helpful, please cite:
+
+```bibtex
+@misc{TwinBrainVLA,
+      title={TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers}, 
+      author={Bin Yu and Shijie Lian and Xiaopeng Lin and Yuliang Wei and Zhaolong Shen and Changti Wu and Yuzhuo Miao and Xinming Wang and Bailing Wang and Cong Huang and Kai Chen},
+      year={2026},
+      eprint={2601.14133},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2601.14133}, 
+}
+```

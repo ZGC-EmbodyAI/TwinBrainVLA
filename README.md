@@ -37,6 +37,8 @@
 
 ---
 
+TwinBrainVLA has been integrated into the implementation of **PhysBrain 1.0**, and the model code is available at [PhysBrain 1.0](https://github.com/Phys-Brain/PhysBrain-VLA).
+
 ## 📖 Abstract
 
 Standard Vision-Language-Action (VLA) models typically fine-tune a monolithic Vision-Language Model (VLM) backbone explicitly for robotic control. However, this approach creates a critical tension between maintaining high-level general semantic understanding and learning low-level, fine-grained sensorimotor skills, often leading to "*catastrophic forgetting*" of the model's open-world capabilities. 

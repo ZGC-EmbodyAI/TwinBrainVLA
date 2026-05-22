@@ -37,7 +37,7 @@
 
 ---
 
-TwinBrainVLA has been integrated into the implementation of **PhysBrain 1.0**, and the model code is available at [PhysBrain 1.0](https://github.com/Phys-Brain/PhysBrain-VLA).
+💬 TwinBrainVLA has been integrated into the implementation of **PhysBrain 1.0**, and the model code is available at [PhysBrain 1.0](https://github.com/Phys-Brain/PhysBrain-VLA).
 
 ## 📖 Abstract
 
